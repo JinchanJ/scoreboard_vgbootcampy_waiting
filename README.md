@@ -4,7 +4,7 @@
 - Select the /layout/scoreboard_vgbootcampy_waiting/index.html as the local file and set its width and height to 1920 and 1080 respectively.
 - Run TSH and enter the players' information.
 
-# Player Cams:
+# Setup Instructions:
 
 - Included in the scoreboard_vgbootcampy_waiting file are the Border.png, Divider.png, and GameScreenMask.png.
 - Add /layout/scoreboard_vgbootcampy_waiting/Border.png and Divider.png as Images in OBS.
